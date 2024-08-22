@@ -7,8 +7,8 @@ This repo contains IaC operating system image templates for use with [Packer](ht
 [Packer](https://www.packer.io/) is an open-source tool, created by [HashiCorp](https://www.hashicorp.com), for programmatically creating identical machine images. It allows you to automate the process of building and provisioning machine images, which can be used in cloud platforms like AWS/Azure, or in virtual machines. In my case, I use Packer to automate the creation of [Proxmox](https://www.proxmox.com) base image templates for my home lab.
 
 ## Templates
-
-- [Windows Server 2022 Standard (Desktop Experience)](windows)
+- [Windows Server 2019 Standard (Desktop Experience)](windows/server2019)
+- [Windows Server 2022 Standard (Desktop Experience)](windows/server2022)
 
 ## Acknowledgements
 
